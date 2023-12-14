@@ -1,0 +1,14 @@
+
+Coursera offers various excellent courses on data structures and algorithms suitable for beginners aiming to crack interviews at FAANG (Facebook, Amazon, Apple, Netflix, Google) companies. Here are a few highly recommended courses:
+
+"Data Structures and Algorithms" by UC San Diego & National Research University Higher School of Economics: This specialization covers the fundamentals of data structures and algorithms and is taught by experienced instructors. It includes multiple courses, such as "Algorithmic Toolbox," "Data Structures," and "Algorithms on Graphs."
+
+"Algorithms, Part I and Part II" by Princeton University: These courses delve deep into algorithms and cover fundamental concepts, sorting algorithms, data structures, graph processing, and more.
+
+"Algorithmic Thinking" by Rice University: This course provides a gentle introduction to algorithms and problem-solving techniques, perfect for beginners.
+
+"Data Structures and Algorithms Specialization" by University of California San Diego: This comprehensive specialization covers various algorithms, graph theory, algorithmic toolbox, and more.
+
+"Data Structures and Algorithms" by University of California, Davis: This course focuses on essential data structures and algorithms that are crucial for understanding and solving complex problems.
+
+Before enrolling, check the syllabus, reviews, and difficulty level to ensure it aligns with your current knowledge and learning goals. Additionally, complementing these courses with practice on coding platforms like LeetCode, HackerRank, or CodeSignal can immensely help in solidifying your understanding and problem-solving skills.
