@@ -1,1 +1,18 @@
+#dsa
+kunal kushwa
+https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+
+#kunalkushwa
+https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main
+
+striver
+https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+problem pattern
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+
+
+#miscalaneous
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+
+
